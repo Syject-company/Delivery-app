@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523063655137",
+    "project_id": "twsl-b1115",
+    "storage_bucket": "twsl-b1115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523063655137:android:0b672cac548f2a12c995a0",
+        "android_client_info": {
+          "package_name": "com.syject.twsl_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523063655137-1k7e13t6l11ai2nsbspmola784374kj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjuHIysZJXSWI3CHKtEtHnXeVjZjN5SgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523063655137-1k7e13t6l11ai2nsbspmola784374kj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
